@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../01_baemin"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Jungle/jungle_test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starbucks"
+	}
+}
